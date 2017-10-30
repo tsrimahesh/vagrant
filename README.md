@@ -1,3 +1,5 @@
+ VBoxManage list vms
+
 # vagrant <br />
 steps to create a vagrant box from VirtualBox <br />
 vagrant package --base vmname <br />
